@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+ - family-names: Greer
+ given-names: C
+ orcid: n/a
+title: "sandbox test"
+version: 1
+doi: 10.5072/zenodo.142023
+date-released: 12/12/24
